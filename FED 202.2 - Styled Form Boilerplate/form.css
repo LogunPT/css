@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #274471;
+}
+.container {
+  width: 400px;
+  align-self: center;
+  border-radius: 6px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(243, 243, 243);
+}
+
+#contactForm {
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
+}
+#firstName {
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 16px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 10px;
+}
+
+#surname {
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 16px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 10px;
+}
+
+#email {
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 16px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 10px;
+}
+
+#message {
+  width: 100%;
+  padding-top: 10px;
+  padding-right: 16px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 10px;
+}
+
+#submit {
+  background-color: #1ac0f3;
+  padding-top: 14px;
+  padding-right: 20px;
+  padding-bottom: 14px;
+  padding-left: 20px;
+  border-radius: 10px;
+  width: 100%;
+}
+#submit:hover {
+  background-color: pink;
+}
